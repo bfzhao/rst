@@ -46,8 +46,9 @@
 ---
 
 Copyright © 2026
-允许在本许可证的条款下复制、分发和/或修改本文档。本文档根据GNU自由文档许可证（GNU Free Documentation License）第1.3版或自由软件基金会发布的任何后续版本的条款发布。
 
-本文档的副本随附于本作品。如果未随附，您可以向自由软件基金会索取一份副本：https://www.fsf.org/。
+本作品采用知识共享 署名-非商业性使用 4.0 国际许可协议 (CC BY-NC 4.0) 进行许可。
 
-本文档没有封面文字（Front-Cover Texts），没有封底文字（Back-Cover Texts）。
+这意味着你可以自由地共享（复制、发行）和演绎（修改、改编）本作品，但必须给出适当的署名，且不得将本作品用于商业目的。
+
+完整协议文本：https://creativecommons.org/licenses/by-nc/4.0/
